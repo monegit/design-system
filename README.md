@@ -4,20 +4,20 @@
 
 ### 🏢 기업
 
-| 디자인 시스템               | 링크                                                         |
-| --------------------------- | ------------------------------------------------------------ |
-| **Google** Material         | https://material-web.dev                                     |
-| **Apple** Design Resource   | https://developer.apple.com/kr/design/resources/             |
-| **Shopify** Polaris         | https://shopify.dev/docs/api/app-home/polaris-web-components |
-| **당근** SEED Design        | https://seed-design.io/docs                                  |
-| **여기어때** Design Library | https://designlibrary.yeogi.com                              |
-| **토스** TDS Mobile         | https://tossmini-docs.toss.im/tds-mobile/                    |
-| **Wanted** Design System    | https://www.figma.com/community/file/1355516515676178246     |
+| 디자인 시스템                 | 링크                                                         |
+| ----------------------------- | ------------------------------------------------------------ |
+| **`Google`** Material         | https://material-web.dev                                     |
+| **`Apple`** Design Resource   | https://developer.apple.com/kr/design/resources/             |
+| **`Shopify`** Polaris         | https://shopify.dev/docs/api/app-home/polaris-web-components |
+| **`당근`** SEED Design        | https://seed-design.io/docs                                  |
+| **`여기어때`** Design Library | https://designlibrary.yeogi.com                              |
+| **`토스`** TDS Mobile         | https://tossmini-docs.toss.im/tds-mobile/                    |
+| **`Wanted`** Design System    | https://www.figma.com/community/file/1355516515676178246     |
 
 ---
 
 ### 🎨 레퍼런스
 
-| 레퍼런스     | 링크                       |
-| ------------ | -------------------------- |
-| **Designus** | https://ko.designus.design |
+| 레퍼런스       | 링크                       |
+| -------------- | -------------------------- |
+| **`Designus`** | https://ko.designus.design |
