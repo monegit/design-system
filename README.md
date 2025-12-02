@@ -11,8 +11,9 @@
 | **`Shopify`** Polaris         | https://shopify.dev/docs/api/app-home/polaris-web-components |
 | **`당근`** SEED Design        | https://seed-design.io/docs                                  |
 | **`여기어때`** Design Library | https://designlibrary.yeogi.com                              |
-| **`토스`** TDS Mobile         | https://tossmini-docs.toss.im/tds-mobile/                    |
+| **`토스`** TDS Mobile         | https://tossmini-docs.toss.im/tds-mobile                     |
 | **`Wanted`** Design System    | https://www.figma.com/community/file/1355516515676178246     |
+| **`Line`** Design System      | https://designsystem.line.me                                 |
 
 ---
 
