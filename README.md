@@ -18,7 +18,7 @@
 | **`Github`** Primer              | https://primer.style                                         |
 | **`프로그래머스`** Design System | https://programmers.co.kr/design/main                        |
 | **`goorm`** Vapor                | https://www.figma.com/community/file/1508829832204351721     |
-| **`Vercel`** Vercel Design       | https://vercel.com/design                                    |
+| **`Vercel`** Geist               | https://vercel.com/geist                                     |
 | **`MongoDB`** LeafyGreen         | https://www.mongodb.design                                   |
 | **`Firefox`** Photon             | https://firefox-dev.tools/photon                             |
 | **`Mozilla`** Protocol           | https://protocol.mozilla.org                                 |
