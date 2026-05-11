@@ -20,7 +20,8 @@
 | **`goorm`** Vapor                | https://www.figma.com/community/file/1508829832204351721     |
 | **`Vercel`** Vercel Design       | https://vercel.com/design                                    |
 | **`MongoDB`** LeafyGreen         | https://www.mongodb.design                                   |
-| **`Firefox`** Photon             | https://firefox-dev.tools/photon/                            |
+| **`Firefox`** Photon             | https://firefox-dev.tools/photon                             |
+| **`Mozilla`** Protocol           | https://protocol.mozilla.org                                 |
 
 
 ---
